@@ -1,0 +1,11 @@
+C:\Users\My Pc\source\repos\Advanced Exersices\Advanced Exersices\bin\Debug\netcoreapp2.0\Advanced Exersices.deps.json
+C:\Users\My Pc\source\repos\Advanced Exersices\Advanced Exersices\bin\Debug\netcoreapp2.0\Advanced Exersices.runtimeconfig.json
+C:\Users\My Pc\source\repos\Advanced Exersices\Advanced Exersices\bin\Debug\netcoreapp2.0\Advanced Exersices.runtimeconfig.dev.json
+C:\Users\My Pc\source\repos\Advanced Exersices\Advanced Exersices\bin\Debug\netcoreapp2.0\Advanced Exersices.dll
+C:\Users\My Pc\source\repos\Advanced Exersices\Advanced Exersices\bin\Debug\netcoreapp2.0\Advanced Exersices.pdb
+C:\Users\My Pc\source\repos\Advanced Exersices\Advanced Exersices\obj\Debug\netcoreapp2.0\Advanced Exersices.csprojResolveAssemblyReference.cache
+C:\Users\My Pc\source\repos\Advanced Exersices\Advanced Exersices\obj\Debug\netcoreapp2.0\Advanced Exersices.csproj.CoreCompileInputs.cache
+C:\Users\My Pc\source\repos\Advanced Exersices\Advanced Exersices\obj\Debug\netcoreapp2.0\Advanced Exersices.AssemblyInfoInputs.cache
+C:\Users\My Pc\source\repos\Advanced Exersices\Advanced Exersices\obj\Debug\netcoreapp2.0\Advanced Exersices.AssemblyInfo.cs
+C:\Users\My Pc\source\repos\Advanced Exersices\Advanced Exersices\obj\Debug\netcoreapp2.0\Advanced Exersices.dll
+C:\Users\My Pc\source\repos\Advanced Exersices\Advanced Exersices\obj\Debug\netcoreapp2.0\Advanced Exersices.pdb
