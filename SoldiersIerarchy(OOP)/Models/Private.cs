@@ -11,7 +11,7 @@ namespace ClassesIerarchy
 
         public Private(int id,string firstName,string lastName,decimal salary):base(id,firstName,lastName)
         {
-            this.Salary = salary;
+            this.salary = salary;
         }
 
         public decimal Salary { get { return this.salary; } set { this.salary = value; } }
