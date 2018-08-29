@@ -17,7 +17,7 @@ namespace ClassesIerarchy
                  
         public Missions(string missionName,MissionStatus status)
         {
-            this.missionName = missionName;
+            this.MissionName = missionName;
             this.Status = status;
         }
 
