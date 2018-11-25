@@ -1,0 +1,11 @@
+C:\Users\My Pc\source\repos\TheVLogger\TheVLogger\bin\Debug\netcoreapp2.0\TheVLogger.deps.json
+C:\Users\My Pc\source\repos\TheVLogger\TheVLogger\bin\Debug\netcoreapp2.0\TheVLogger.runtimeconfig.json
+C:\Users\My Pc\source\repos\TheVLogger\TheVLogger\bin\Debug\netcoreapp2.0\TheVLogger.runtimeconfig.dev.json
+C:\Users\My Pc\source\repos\TheVLogger\TheVLogger\bin\Debug\netcoreapp2.0\TheVLogger.dll
+C:\Users\My Pc\source\repos\TheVLogger\TheVLogger\bin\Debug\netcoreapp2.0\TheVLogger.pdb
+C:\Users\My Pc\source\repos\TheVLogger\TheVLogger\obj\Debug\netcoreapp2.0\TheVLogger.csprojResolveAssemblyReference.cache
+C:\Users\My Pc\source\repos\TheVLogger\TheVLogger\obj\Debug\netcoreapp2.0\TheVLogger.csproj.CoreCompileInputs.cache
+C:\Users\My Pc\source\repos\TheVLogger\TheVLogger\obj\Debug\netcoreapp2.0\TheVLogger.AssemblyInfoInputs.cache
+C:\Users\My Pc\source\repos\TheVLogger\TheVLogger\obj\Debug\netcoreapp2.0\TheVLogger.AssemblyInfo.cs
+C:\Users\My Pc\source\repos\TheVLogger\TheVLogger\obj\Debug\netcoreapp2.0\TheVLogger.dll
+C:\Users\My Pc\source\repos\TheVLogger\TheVLogger\obj\Debug\netcoreapp2.0\TheVLogger.pdb
