@@ -11,7 +11,7 @@ namespace ClassesIerarchy
 
         public LeutenantGeneral(int id, string firstName, string lastName, decimal salary,List<int> ids) :base( id,  firstName,  lastName,  salary)
         {
-            this.privates = new List<Private>();
+            this.Privates = new List<Private>();
            
         }
 
