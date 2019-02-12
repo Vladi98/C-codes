@@ -13,9 +13,9 @@ namespace ClassesIerarchy
 
         public Soldier(int id,string firstName,string lastName)
         {
-            this.id = id;
-            this.firstName = firstName;
-            this.lastName = lastName;
+            this.Id = id;
+            this.FirstName = firstName;
+            this.LastName = lastName;
         }
 
         public int Id { get { return this.id; } set { this.id = value; } }
