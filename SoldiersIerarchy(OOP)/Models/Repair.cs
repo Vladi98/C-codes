@@ -11,8 +11,8 @@ namespace ClassesIerarchy
 
         public Repair(string partName,int hoursWorked)
         {
-            this.partName = partName;
-            this.hoursWorked = hoursWorked;
+            this.PartName = partName;
+            this.HoursWorked = hoursWorked;
         }
 
         public string PartName
