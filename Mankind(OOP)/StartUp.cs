@@ -18,7 +18,7 @@ namespace _03.Mankind
                 result.AppendLine(student.ToString());
                 result.AppendLine();
             }
-            catch (Exception e)
+            catch (ArgumentException e)
             {
 
                 Console.WriteLine(e.Message);
@@ -33,7 +33,7 @@ namespace _03.Mankind
                 var worker = new Worker(tokensWorker[0], tokensWorker[1], double.Parse(tokensWorker[2]), double.Parse(tokensWorker[3]));
                 result.AppendLine(worker.ToString());
             }
-            catch (Exception e)
+            catch (ArgumentException e)
             {
 
                 Console.WriteLine(e.Message);
